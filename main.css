@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  ul,
+  ol {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  
+  article{
+    background-color: rgb(68, 68, 255);
+    color: #f0ffff;
+    padding: 10px 20px;
+    margin: 10px;
+  }
+  
+  .card__discription{
+    padding-top: 15px;
+    padding-bottom: 10px;
+  }
+
+  .card-btn {
+    background-color: aqua;
+    padding: 10px 15px;
+    font-style: 17px;
+  }
+
+  .card-btn--search {
+    background-color:rgb(255, 152, 74);
+  }
